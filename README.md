@@ -3,8 +3,31 @@ The Knowledge Base for Startups
 
 (CC) 2011-2013 by Kamil Rudnicki (http://rudnicki.info) 
 
-* auto-gen TOC:
-{:toc}
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [The Knowledge Base for Startups](#the-knowledge-base-for-startups)
+- [Ideas](#ideas)
+  - [Ideas Creation](#ideas-creation)
+	- [Market](#market)
+	- [Motivation](#motivation)
+- [Strategy](#strategy)
+	- [Business Plan](#business-plan)
+	- [Strategy](#strategy-1)
+	- [Acquisition](#acquisition)
+- [Execution](#execution)
+	- [Metrics](#metrics)
+	- [Scaling](#scaling)
+	- [Lean Startup](#lean-startup)
+	- [Beeing a Manager](#beeing-a-manager)
+	- [Beeing a CEO](#beeing-a-ceo)
+	- [Marketing](#marketing)
+	- [Recruiting](#recruiting)
+	- [Team Members](#team-members)
+	- [Environment & Culture](#environment--culture)
+	- [Schedules](#schedules)
+	- [Design of software](#design-of-software)
+	- [SaaS](#saas)
+	- [Sales](#sales)
 
 # Ideas
 
