@@ -3,6 +3,9 @@ The Knowledge Base for Startups
 
 (CC) 2011-2013 by Kamil Rudnicki (http://rudnicki.info) 
 
+* auto-gen TOC:
+{:toc}
+
 # Ideas
 
 ## Ideas Creation
