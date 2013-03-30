@@ -33,6 +33,7 @@ The Knowledge Base for Startups
 
 ## Ideas Creation
 
+* [Target big markets](http://andrewchen.co/2012/05/24/what-makes-sequoia-capital-successful-target-big-markets/)
 * [You really need a market, not an idea](http://www.pfinn.net/markets-not-ideas-for-bootstrappers-founders.html)
 * Slicehost: he had a problem himself, didn’t know it is going to be huge
 * [The only 2 ways to build a $100 million business](http://versiononeventures.com/the-only-2-ways-to-build-a-100-million-business/)
@@ -67,9 +68,29 @@ The Knowledge Base for Startups
 
 ## Business Plan
 
+* [Plans are nothing, but planning is indispensable](http://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-everything/)
+* Get a lot of data from market reaserch, but don’t make too much conclusions. Intelligent people will know what that means
+* [Do You Really Even Need VC?](http://www.bothsidesofthetable.com/2009/07/22/do-you-really-even-need-vc/)
+* Google: s-1 ipo salesforce / workday
+
 ## Strategy
 
+* [Growth](http://paulgraham.com/growth.html)
+* [Founders and Heat Seeking Missiles](http://redeye.firstround.com/2010/08/heat-seeking-missiles.html)
+* [The one imporant thing](http://blog.asmartbear.com/one-priority.html)
+* [Value proposition](http://www.skmurphy.com/blog/2011/10/13/its-the-picture-on-the-box-that-sells-the-lego-set/)
+* [How important is to compete](http://bhorowitz.com/2011/10/26/lead-bullets/)
+* [Why Making Something Customers Want Isn’t Enough](http://www.softwarebyrob.com/2011/07/21/why-making-something-customers-want-isnt-enough/)
+* [Stocks](http://answers.onstartups.com/questions/6949/forming-a-new-software-startup-how-do-i-allocate-ownership-fairly/23326#23326)
+* [What to invest in](https://www.youtube.com/watch?v=eEI3LZS_fOM)
+* [The Amazing Power of Deflationary Economics for Startups](http://www.bothsidesofthetable.com/2011/12/22/the-amazing-power-of-deflationary-economics-for-startups/)
+* [9 Ways to Decrease Your Chance of Bootstrapping a Successful Company](http://www.softwarebyrob.com/2011/11/02/9-ways-to-decrease-your-chance-of-bootstrapping-a-successful-company/)
+* [What Now? Founder Re-org](http://peter.a16z.com/2011/11/02/what-now-founder-re-org/)
+
 ## Acquisition
+
+* [When to Sell Your Company](https://medium.com/on-startups/6a25c0cbd358)
+* [Mechanics of a Small Acquisition](http://quotidianventures.com/post/28411675934/mechanics-of-a-small-acquisition)
 
 # Execution
 
@@ -78,6 +99,8 @@ The Knowledge Base for Startups
 ## Scaling
 
 ## Lean Startup
+
+* [What does a validated hypothesis look like?](http://www.cindyalvarez.com/lean/what-does-a-validated-hypothesis-look-like)
 
 ## Beeing a Manager
 
