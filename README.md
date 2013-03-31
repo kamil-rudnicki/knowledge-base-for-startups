@@ -111,6 +111,7 @@ The Knowledge Base for Startups
 * [How to Structure (and get the most out of) Customer Development Interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/)
 * [Case-Study: InfoChimps and Transitioning to Lean](http://www.ashmaurya.com/2011/11/case-study-infochimps-and-transitioning-to-lean/)
 * [Don’t Solve Every Problem](http://mixergy.com/course-cheat-sheet-interview-customers/?awt_l=5R3.p&awt_m=J.42W7Bhp22SOy)
+* [Making something people want - The GoCardless story](http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless-story)
 
 ## Beeing a Manager
 
