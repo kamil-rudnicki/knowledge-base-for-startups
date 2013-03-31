@@ -136,3 +136,7 @@ The Knowledge Base for Startups
 * [10 laws of cloud computing](https://skydrive.live.com/redir?resid=9E97C922CE6630E2!19010&authkey=!AJifQNdqxZD6btk)
 
 ## Sales
+
+## Outsourcing
+
+* [Startup Lawyers in Poland](http://www.lexperts.com.pl/)
