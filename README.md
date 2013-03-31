@@ -125,11 +125,15 @@ The Knowledge Base for Startups
 
 ## Team Members
 
+* [Smart Guy Productivity Pitfalls](http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html)
+
 ## Environment & Culture
 
 ## Schedules
 
 ## Design of software
+
+* [Missing Features Are Better Than Partial Features](http://bookofhook.blogspot.com/2013/02/missing-features-are-better-than.html)
 
 ## SaaS
 
