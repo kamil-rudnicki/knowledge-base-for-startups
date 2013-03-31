@@ -108,8 +108,13 @@ The Knowledge Base for Startups
 ## Lean Startup
 
 * [What does a validated hypothesis look like?](http://www.cindyalvarez.com/lean/what-does-a-validated-hypothesis-look-like)
+* [How to Structure (and get the most out of) Customer Development Interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/)
+* [Case-Study: InfoChimps and Transitioning to Lean](http://www.ashmaurya.com/2011/11/case-study-infochimps-and-transitioning-to-lean/)
+* [Don’t Solve Every Problem](http://mixergy.com/course-cheat-sheet-interview-customers/?awt_l=5R3.p&awt_m=J.42W7Bhp22SOy)
 
 ## Beeing a Manager
+
+* [Revealing 1:1 Questions](http://www.cindyalvarez.com/communication/2-revealing-11-questions)
 
 ## Beeing a CEO
 
