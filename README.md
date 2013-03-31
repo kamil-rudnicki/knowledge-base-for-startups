@@ -96,7 +96,14 @@ The Knowledge Base for Startups
 
 ## Metrics
 
+* [The Equation for Customer Retention Predictability](http://servicevantage.com/2011/07/the-equation-for-customer-retention-predictability/)
+
 ## Scaling
+
+* [How To Scale a Development Team](http://adam.heroku.com/past/2011/4/28/scaling_a_development_team/)
+* [Deconstructing Startup Growth](http://www.startup-marketing.com/deconstructing-startup-growth/)
+* [Growing your Startup (Sean Ellis)](http://www.ustream.tv/recorded/26563903)
+* [Milestones to Startup Success](http://www.startup-marketing.com/milestones-to-startup-success/)
 
 ## Lean Startup
 
@@ -119,5 +126,7 @@ The Knowledge Base for Startups
 ## Design of software
 
 ## SaaS
+
+* [10 laws of cloud computing](https://skydrive.live.com/redir?resid=9E97C922CE6630E2!19010&authkey=!AJifQNdqxZD6btk)
 
 ## Sales
