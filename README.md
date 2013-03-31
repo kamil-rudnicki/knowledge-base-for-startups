@@ -119,6 +119,8 @@ The Knowledge Base for Startups
 
 ## Beeing a CEO
 
+* [Reasoning from First Principles v Analogy](http://www.oninnovation.com/videos/detail.aspx?video=1251) [2](http://bill.holsinger-robinson.com/business-2/reasoning-from-first-principles-v-analogy/)
+
 ## Marketing
 
 ## Recruiting
