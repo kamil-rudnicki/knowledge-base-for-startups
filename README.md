@@ -55,7 +55,7 @@ The Knowledge Base for Startups
 ## Motivation & Expectetions
 
 * [The default state of a startup is failure](http://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/) - comment: world wants to stay in status quo, force it to change
-* Bringing and achieving your vision to fruition - true goal. You shouldn’t care about anything else. It is not about beeing a CEO. Having a vision, and going there to bring something new to this world should be your ultimate goal
+* Bringing and achieving your vision to fruition - true goal. You shouldn’t care about anything else. It is not about beeing a CEO, rich, your ego. Having a vision, and going there to bring something new to this world should be your ultimate goal
 * Be optimistic
 * [The goal of the entrepreneur is not to be “right.”](http://blog.asmartbear.com/criticize-create.html) - comment: don't be too smart thinking why this enterprise won't work, instead run experiments
 * [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every) - comment: only 4 billion dollar companies per year, very hard to do, lower aspirations
