@@ -50,19 +50,16 @@ The Knowledge Base for Startups
 * [Target big markets](http://andrewchen.co/2012/05/24/what-makes-sequoia-capital-successful-target-big-markets/)
 * [Make something a large group of people already want](http://thestartuptoolkit.com/blog/2011/11/what-i-learned-from-a-month-of-blogging-and-250k-visits/)
 * [Elements of sustainable companies](http://www.sequoiacap.com/ideas)
-
-## Market Research
-
-* [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every)
 * [10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
 * Market reaserch data: [1](http://libguides.mit.edu/content.php?pid=56163&sid=411134), [2](http://www.census.gov/econ/susb/)
 
-## Motivation
+## Motivation & Expectetions
 
 * [The default state of a startup is failure](http://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/)
 * Bringing and achieving your vision to fruition - true goal. You shouldn’t care about anything else. It is not about beeing a CEO. Having a vision, and going there to bring something new to this world should be your ultimate goal
 * Be optimistic
 * [Easy to criticize, hard to create](http://blog.asmartbear.com/criticize-create.html)
+* [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every) - comment: only 4 billion dollar companies per year, very hard to do
 
 # Strategy
 
