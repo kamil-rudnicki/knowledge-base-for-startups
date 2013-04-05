@@ -119,9 +119,25 @@ The Knowledge Base for Startups
 
 ## Beeing a CEO
 
+* [The Dynamics of Change and Fear](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1717)
+* [The “Work” Trap](http://notes.unwieldy.net/post/29050677758/the-work-trap)
+* [The CEO’s Weekly Checklist](http://scott.a16z.com/2012/05/14/the-ceos-weekly-checklist/)
+* [Never say “no,” but rarely say “yes.”](http://blog.asmartbear.com/how-to-say-yes.html)
+* [Achieving Flow in a Lean Startup](http://www.ashmaurya.com/2009/12/achieving-flow-in-a-lean-startup/)
+* [What fear can teach us](http://www.ted.com/talks/karen_thompson_walker_what_fear_can_teach_us.html)
 * [Reasoning from First Principles v Analogy](http://www.oninnovation.com/videos/detail.aspx?video=1251) [2](http://bill.holsinger-robinson.com/business-2/reasoning-from-first-principles-v-analogy/)
 
 ## Marketing
+
+* [Give somehting for free, than sell](http://nathanbarry.com/best-marketing-method/)
+* [Content marketing, not PR](http://onstartups.com/tabid/3339/bid/93468/Our-PR-Stinks-Here-s-What-Your-Startup-Can-Learn-From-It.aspx)
+* Having real marketing plan, how to reach customers is essential.
+* [Have a story](http://news.ycombinator.com/item?id=3024456)
+* [Psychology of marketing](http://news.ycombinator.com/item?id=4298417)
+* marketing to niekończońce się kombinowanie, eksperymentowanie z kanałami pozyskania ruchu na stronę - taki mikromarketing
+* [Talk nerdy to me](http://www.ted.com/talks/melissa_marshall_talk_nerdy_to_me.html)
+* [Teeny bit of traction — what next?](http://blog.asmartbear.com/traction-then-what.html)
+* did not able to explain the product in simple terms.Hard value propositions (not like increase in productivity). More income is better then less costs
 
 ## Recruiting
 
