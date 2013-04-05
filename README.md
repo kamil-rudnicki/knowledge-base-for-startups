@@ -33,8 +33,6 @@ The Knowledge Base for Startups
 
 ## Ideas Creation
 
-* [Target big markets](http://andrewchen.co/2012/05/24/what-makes-sequoia-capital-successful-target-big-markets/)
-* [You really need a market, not an idea](http://www.pfinn.net/markets-not-ideas-for-bootstrappers-founders.html)
 * Slicehost: he had a problem himself, didn’t know it is going to be huge
 * [The only 2 ways to build a $100 million business](http://versiononeventures.com/the-only-2-ways-to-build-a-100-million-business/)
 * [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
@@ -48,11 +46,13 @@ The Knowledge Base for Startups
 * Market size matters
 * Existing markets: Deep knowladge about players, Players unable to adopt to discruption
 * Two types: big markets - with VC, niche markets - without VC
-
-## Market
-
+* [You really need a market, not an idea](http://www.pfinn.net/markets-not-ideas-for-bootstrappers-founders.html)
+* [Target big markets](http://andrewchen.co/2012/05/24/what-makes-sequoia-capital-successful-target-big-markets/)
 * [Make something a large group of people already want](http://thestartuptoolkit.com/blog/2011/11/what-i-learned-from-a-month-of-blogging-and-250k-visits/)
 * [Elements of sustainable companies](http://www.sequoiacap.com/ideas)
+
+## Market Research
+
 * [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every)
 * [10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
 * Market reaserch data: [1](http://libguides.mit.edu/content.php?pid=56163&sid=411134), [2](http://www.census.gov/econ/susb/)
