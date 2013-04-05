@@ -141,23 +141,74 @@ The Knowledge Base for Startups
 
 ## Recruiting
 
+* [Potential cofounders](http://founderdating.com/questions-to-ask-potential-cofounders/)
+* [How to best sales PL](http://www.salesnews.pl/Advice.aspx?id=62)
+* [The Management Team](http://www.avc.com/a_vc/2012/02/the-management-team-guest-post-from-joel-spolsky.html)
+* [Good Interviewing Doesn’t “Just Happen”](http://www.cindyalvarez.com/learning/good-interviewing-doesnt-just-happen)
+* [Staying Great](http://bhorowitz.com/2013/03/04/staying-great/)
+* [Recruite for summer interships](http://training.fogcreek.com/about.php)
+* W Apple -> zatrudniali ludzi, którzy chcieli coś zrobić, ale w innych firmach nie mogli!
+* Kayak CTO - godzina dziennie gdy nie masz co robić, zespół absolutnie najważniejszy!
+
 ## Team Members
 
 * [Smart Guy Productivity Pitfalls](http://bookofhook.blogspot.com/2013/03/smart-guy-productivity-pitfalls.html)
+* QA - looks at features and code, and propmt programmers for things, that he was too lazy to think about - he decides if feature is ready to be realeased. Also makes sure nothing is broken. Fundamentall difference between dev vs qa is that qa brakes things. Crashes are their fault.
+* Helpdesk
+* Product managers - communicate, thinks about features, talks with coders - only convincing them (peers), talks with customers, make specifications. He is thinking about magic functions, coders thinks about practical making - they must met in the middle.
+* Don’t micromanage, don’t pretend to give decisions to employees
+* Use your own products
+* Don’t make a meetings about problem solving - only when you must communicate something
+* Cutting down communication to minimum
+* Fix things twice - the problem, and never happen it again
 
 ## Environment & Culture
 
+* As much as possible of natural light
+* Two monitors, headphones
+* Free lunch
+* http://predictablerevenue.com/nearsoft/
+
 ## Schedules
+
+* Very important - without them, you will do shitty stuff, that nobody care
 
 ## Design of software
 
 * [Missing Features Are Better Than Partial Features](http://bookofhook.blogspot.com/2013/02/missing-features-are-better-than.html)
+* Make people happy - Inability of control things - makes people not try, and lack of effort, which leads to unhappiness, so people are helplessness, people must feel that they can easily get what they want, software shouldn’t interrupt this process. Put the user in control. Give them feedback. Don’t hide things beyond their reach!
+* Obsess over aestetics - you can decorate in some way
+* Constant interation
+* getflow.com
+* mint
+* wufoo
+* stripe
+* trello
+* [Quick Course On Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
+* [Why Can’t They Just…?](http://www.cindyalvarez.com/worst-practices/why-cant-they-just)
+* [Design ui/ux](http://blog.teamtreehouse.com/ryan-singer-on-ui-design-frontend-development-project-management-and-inspiration)
 
 ## SaaS
 
 * [10 laws of cloud computing](https://skydrive.live.com/redir?resid=9E97C922CE6630E2!19010&authkey=!AJifQNdqxZD6btk)
+* [Subscription business models are getting their day in the sun](http://lsvp.com/2012/03/07/subscription-business-models-are-getting-their-day-in-the-sun/)
+* [Understanding the Customer Buying Cycle & Triggers](http://www.forentrepreneurs.com/buying-cycle-and-triggers/)
 
 ## Sales
+
+* Error did not try to sell the product, I've just build it
+* http://www.forentrepreneurs.com/predictable-revenue/
+* [targowanie się](http://www.bothsidesofthetable.com/2012/02/26/everybody-wants-their-pound-of-flesh-how-to-negotiate-with-buyers/)
+* [Artykuł](http://cdixon.org/2010/02/06/selling-to-enterprises/)
+* [Rady](http://www.bothsidesofthetable.com/2011/09/30/tips-to-help-you-think-about-sales-at-your-startup)
+* http://www.forentrepreneurs.com/hubspot-saas-inside-sales/
+* starać się omijać enterprise -> saas, to przyszłosc to mniej strosowej i stabilnego zysku
+* [Selling to bigger companies - two lessons](http://blog.filepicker.io/post/35137916087/how-to-land-a-big-fish)
+* [Sales email followup](http://blog.bridgegroupinc.com/blog/tabid/47760/bid/87195/A-Brilliant-Sales-Email-Share-this-with-your-team.aspx)
+* 1. zadać pytanie - do czego Ci to potrzebne? ask about family? almost not selling? talking as a human beiing. stworzyć dzięki temu więź, nie iść jako salesperson, tylko przyjaciel -> help them their need, they think, i’m consulting
+* czym więcej konkretnych pytań, odpowiedzi, konkretów, tym większa szansa sprzedaży dla tej osoby
+* kluczowe jest z kim rozmawiac, a z kim nie
+* nie: hi, im’ looking if you need xyz, tak, hello, kamil, value your time, don’t waste you time, just let you know what we do, who wer , can i sto pon thurdsay, and see as a consultant,  what you are happy, unhappy with your current solution and see can we help you with that
 
 ## Outsourcing
 
