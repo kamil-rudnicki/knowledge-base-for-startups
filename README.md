@@ -45,7 +45,6 @@ The Knowledge Base for Startups
 * Validate by talking with customers, quick answer, yes, I would use vs. no, I wouldn’t. Do you have this problem? Where is it on your pain-point spectrum?
 * Market size matters
 * Existing markets: Deep knowladge about players, Players unable to adopt to discruption
-* Two types: big markets - with VC, niche markets - without VC
 * [You really need a market, not an idea](http://www.pfinn.net/markets-not-ideas-for-bootstrappers-founders.html)
 * [Target big markets](http://andrewchen.co/2012/05/24/what-makes-sequoia-capital-successful-target-big-markets/)
 * [Make something a large group of people already want](http://thestartuptoolkit.com/blog/2011/11/what-i-learned-from-a-month-of-blogging-and-250k-visits/)
@@ -55,11 +54,11 @@ The Knowledge Base for Startups
 
 ## Motivation & Expectetions
 
-* [The default state of a startup is failure](http://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/)
+* [The default state of a startup is failure](http://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/) - comment: world wants to stay in status quo, force it to change
 * Bringing and achieving your vision to fruition - true goal. You shouldn’t care about anything else. It is not about beeing a CEO. Having a vision, and going there to bring something new to this world should be your ultimate goal
 * Be optimistic
-* [Easy to criticize, hard to create](http://blog.asmartbear.com/criticize-create.html)
-* [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every) - comment: only 4 billion dollar companies per year, very hard to do
+* [The goal of the entrepreneur is not to be “right.”](http://blog.asmartbear.com/criticize-create.html) - comment: don't be too smart thinking why this enterprise won't work, instead run experiments
+* [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every) - comment: only 4 billion dollar companies per year, very hard to do, lower aspirations
 
 # Strategy
 
@@ -72,6 +71,7 @@ The Knowledge Base for Startups
 
 ## Strategy
 
+* Two types: big markets - with VC, niche markets - without VC
 * [Growth](http://paulgraham.com/growth.html)
 * [Founders and Heat Seeking Missiles](http://redeye.firstround.com/2010/08/heat-seeking-missiles.html)
 * [The one imporant thing](http://blog.asmartbear.com/one-priority.html)
