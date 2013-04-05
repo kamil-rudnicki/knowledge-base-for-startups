@@ -60,7 +60,7 @@ The Knowledge Base for Startups
 ## Motivation
 
 * [The default state of a startup is failure](http://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/)
-* Bringing and achieving your vision to fruition (zadowolenie z korzystania) - true goal. You shouldn’t care about anything else. It is not about beeing a CEO. Having a vision, and going there
+* Bringing and achieving your vision to fruition - true goal. You shouldn’t care about anything else. It is not about beeing a CEO. Having a vision, and going there to bring something new to this world should be your ultimate goal
 * Be optimistic
 * [Easy to criticize, hard to create](http://blog.asmartbear.com/criticize-create.html)
 
