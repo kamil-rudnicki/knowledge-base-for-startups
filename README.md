@@ -181,6 +181,7 @@ The Knowledge Base for Startups
 * wufoo
 * stripe
 * trello
+* Intercom.io
 * [Quick Course On Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
 * [Why Can’t They Just…?](http://www.cindyalvarez.com/worst-practices/why-cant-they-just)
 * [Design ui/ux](http://blog.teamtreehouse.com/ryan-singer-on-ui-design-frontend-development-project-management-and-inspiration)
