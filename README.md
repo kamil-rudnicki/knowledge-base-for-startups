@@ -71,6 +71,7 @@ The Knowledge Base for Startups
 
 ## Strategy
 
+* [The only 2 ways to build a $100 million business](http://versiononeventures.com/the-only-2-ways-to-build-a-100-million-business/)
 * Two types: big markets - with VC, niche markets - without VC
 * [Growth](http://paulgraham.com/growth.html)
 * [Founders and Heat Seeking Missiles](http://redeye.firstround.com/2010/08/heat-seeking-missiles.html)
