@@ -105,6 +105,7 @@ The Knowledge Base for Startups
 
 ## Lean Startup
 
+* [RightNow](http://www.sramanamitra.com/2008/08/02/the-montana-mogul-rightnow-ceo-greg-gianforte-part-3/)
 * [What does a validated hypothesis look like?](http://www.cindyalvarez.com/lean/what-does-a-validated-hypothesis-look-like)
 * [How to Structure (and get the most out of) Customer Development Interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/)
 * [Case-Study: InfoChimps and Transitioning to Lean](http://www.ashmaurya.com/2011/11/case-study-infochimps-and-transitioning-to-lean/)
