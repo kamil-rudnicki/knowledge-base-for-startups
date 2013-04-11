@@ -94,6 +94,7 @@ The Knowledge Base for Startups
 
 ## Metrics
 
+* [A KPI dashboard for early-stage SaaS startups](http://christophjanz.blogspot.de/2013/04/a-kpi-dashboard-for-early-stage-saas.html)
 * [The Equation for Customer Retention Predictability](http://servicevantage.com/2011/07/the-equation-for-customer-retention-predictability/)
 
 ## Scaling
