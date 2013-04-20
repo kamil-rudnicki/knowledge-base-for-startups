@@ -116,6 +116,7 @@ The Knowledge Base for Startups
 ## Beeing a Manager
 
 * [Revealing 1:1 Questions](http://www.cindyalvarez.com/communication/2-revealing-11-questions)
+* [Don’t manage People, manage Activities](http://ryancarson.com/post/48197397002/1-on-1-meetings-with-your-team)
 
 ## Beeing a CEO
 
