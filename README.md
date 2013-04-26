@@ -112,6 +112,7 @@ The Knowledge Base for Startups
 * [Case-Study: InfoChimps and Transitioning to Lean](http://www.ashmaurya.com/2011/11/case-study-infochimps-and-transitioning-to-lean/)
 * [Don’t Solve Every Problem](http://mixergy.com/course-cheat-sheet-interview-customers/?awt_l=5R3.p&awt_m=J.42W7Bhp22SOy)
 * [Making something people want - The GoCardless story](http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless-story)
+* [10 mistakes startups make when talking to users](http://survata.com/blog/10-mistakes-startups-make-when-talking-to-users/)
 
 ## Beeing a Manager
 
