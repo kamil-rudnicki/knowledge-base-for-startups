@@ -5,30 +5,6 @@ The Knowledge Base for Startups
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [The Knowledge Base for Startups](#the-knowledge-base-for-startups)
-- [Ideas](#ideas)
-  - [Ideas Creation](#ideas-creation)
-	- [Market](#market)
-	- [Motivation](#motivation)
-- [Strategy](#strategy)
-	- [Business Plan](#business-plan)
-	- [Strategy](#strategy-1)
-	- [Acquisition](#acquisition)
-- [Execution](#execution)
-	- [Metrics](#metrics)
-	- [Scaling](#scaling)
-	- [Lean Startup](#lean-startup)
-	- [Beeing a Manager](#beeing-a-manager)
-	- [Beeing a CEO](#beeing-a-ceo)
-	- [Marketing](#marketing)
-	- [Recruiting](#recruiting)
-	- [Team Members](#team-members)
-	- [Environment & Culture](#environment--culture)
-	- [Schedules](#schedules)
-	- [Design of software](#design-of-software)
-	- [SaaS](#saas)
-	- [Sales](#sales)
-
 # Ideas
 
 ## Ideas Creation
@@ -121,6 +97,7 @@ The Knowledge Base for Startups
 
 ## Beeing a CEO
 
+* Create two opposing forces, to make it automatically manage by itself and find health consensuse
 * [The Dynamics of Change and Fear](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1717)
 * [The “Work” Trap](http://notes.unwieldy.net/post/29050677758/the-work-trap)
 * [The CEO’s Weekly Checklist](http://scott.a16z.com/2012/05/14/the-ceos-weekly-checklist/)
@@ -151,6 +128,7 @@ The Knowledge Base for Startups
 * [Recruite for summer interships](http://training.fogcreek.com/about.php)
 * W Apple -> zatrudniali ludzi, którzy chcieli coś zrobić, ale w innych firmach nie mogli!
 * Kayak CTO - godzina dziennie gdy nie masz co robić, zespół absolutnie najważniejszy!
+* In early stage look for people with drive to improve things, get things done, proactive - you don't have time to manage them
 
 ## Team Members
 
