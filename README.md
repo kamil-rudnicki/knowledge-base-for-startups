@@ -3,7 +3,7 @@ The Knowledge Base for Startups
 
 (CC) 2011-2013 by Kamil Rudnicki (http://rudnicki.info) 
 
-**Table of Contents**  *generated with  [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 # Ideas
 
@@ -35,6 +35,7 @@ The Knowledge Base for Startups
 * Be optimistic
 * [The goal of the entrepreneur is not to be “right.”](http://blog.asmartbear.com/criticize-create.html) - comment: don't be too smart thinking why this enterprise won't work, instead run experiments
 * [A billion dollar software tech companies](http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every) - comment: only 4 billion dollar companies per year, very hard to do, lower aspirations
+* [You Aren’t Changing the World, So Let’s Make it Better](http://saastr.wordpress.com/2012/09/14/you-probably-arent-changing-the-world-so-lets-make-it-better/)
 
 # Strategy
 
@@ -47,6 +48,7 @@ The Knowledge Base for Startups
 
 ## Strategy
 
+* [Your Customer Success Team. Hire Early. And No Squishy Goals — It’s All About the Numbers.](http://saastr.wordpress.com/2013/03/04/customer-success-managers-hire-early-and-no-squishy-goals-its-all-about-the-numbers/)
 * [The only 2 ways to build a $100 million business](http://versiononeventures.com/the-only-2-ways-to-build-a-100-million-business/)
 * Two types: big markets - with VC, niche markets - without VC
 * [Growth](http://paulgraham.com/growth.html)
@@ -72,9 +74,12 @@ The Knowledge Base for Startups
 
 * [A KPI dashboard for early-stage SaaS startups](http://christophjanz.blogspot.de/2013/04/a-kpi-dashboard-for-early-stage-saas.html)
 * [The Equation for Customer Retention Predictability](http://servicevantage.com/2011/07/the-equation-for-customer-retention-predictability/)
+* [You must be growing at least 50% YoY](http://saastr.wordpress.com/2012/10/11/workday-is-growing-90-this-year-so-wake-up-you-probably-need-to-do-a-lot-lot-better/)
+* [You Can Measure Everything. Marketing, PR, Dev, Lead Efficiency. Do It.](http://saastr.wordpress.com/2012/11/28/yes-you-can-measure-everything-marketing-pr-dev-lead-efficiency-do-it/)
 
 ## Scaling
 
+* [How To Know You’ve Hit First Traction In SaaS](http://saastr.wordpress.com/2013/01/24/how-youll-know-youve-got-first-traction-in-saas-the-moment-when-youve-got-something-special/)
 * [How To Scale a Development Team](http://adam.heroku.com/past/2011/4/28/scaling_a_development_team/)
 * [Deconstructing Startup Growth](http://www.startup-marketing.com/deconstructing-startup-growth/)
 * [Growing your Startup (Sean Ellis)](http://www.ustream.tv/recorded/26563903)
@@ -94,6 +99,7 @@ The Knowledge Base for Startups
 
 * [Revealing 1:1 Questions](http://www.cindyalvarez.com/communication/2-revealing-11-questions)
 * [Don’t manage People, manage Activities](http://ryancarson.com/post/48197397002/1-on-1-meetings-with-your-team)
+* [How to Fire A Crummy Employee](http://saastr.wordpress.com/2012/09/09/how-to-fire-a-crappy-employee/)
 
 ## Beeing a CEO
 
