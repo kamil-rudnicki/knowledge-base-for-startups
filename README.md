@@ -67,6 +67,7 @@ The Knowledge Base for Startups
 
 * [When to Sell Your Company](https://medium.com/on-startups/6a25c0cbd358)
 * [Mechanics of a Small Acquisition](http://quotidianventures.com/post/28411675934/mechanics-of-a-small-acquisition)
+* [Use a bankier](http://saastr.com/2013/05/06/if-you-sell-your-company-use-a-banker/)
 
 # Execution
 
