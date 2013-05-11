@@ -112,6 +112,7 @@ The Knowledge Base for Startups
 * [Achieving Flow in a Lean Startup](http://www.ashmaurya.com/2009/12/achieving-flow-in-a-lean-startup/)
 * [What fear can teach us](http://www.ted.com/talks/karen_thompson_walker_what_fear_can_teach_us.html)
 * [Reasoning from First Principles v Analogy](http://www.oninnovation.com/videos/detail.aspx?video=1251) [2](http://bill.holsinger-robinson.com/business-2/reasoning-from-first-principles-v-analogy/)
+* [The Curse of the Technical CEO](http://www.iseff.com/post/49861932184/the-curse-of-the-technical-ceo)
 
 ## Marketing
 
