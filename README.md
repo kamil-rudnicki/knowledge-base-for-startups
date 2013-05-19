@@ -131,6 +131,9 @@ The Knowledge Base for Startups
 * [Talk nerdy to me](http://www.ted.com/talks/melissa_marshall_talk_nerdy_to_me.html)
 * [Teeny bit of traction — what next?](http://blog.asmartbear.com/traction-then-what.html)
 * did not able to explain the product in simple terms.Hard value propositions (not like increase in productivity). More income is better then less costs
+* Brand
+- press should love it
+- differentiate, differentiate, differentiate (like No Software sales force)
 
 ## Recruiting
 
