@@ -104,6 +104,11 @@ The Knowledge Base for Startups
 
 ## Beeing a CEO
 
+* Always have a vision (successful leader is one who is always thinking about the future, not just the present) - Larry Ellison
+* Act confident, even when you are not - Larry Ellison
+* Think of it as you want it, not as it is! - Larry Ellison
+* Don't let others sway you from your point of view - Larry Ellison
+* Don't give others your power. Ever. - Larry Ellison 
 * Create two opposing forces, to make it automatically manage by itself and find health consensuse
 * [The Dynamics of Change and Fear](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1717)
 * [The “Work” Trap](http://notes.unwieldy.net/post/29050677758/the-work-trap)
@@ -116,6 +121,7 @@ The Knowledge Base for Startups
 
 ## Marketing
 
+* Companies must embrace bold marketing tactics from the beginning in order to break through all the industry noise
 * [Give somehting for free, than sell](http://nathanbarry.com/best-marketing-method/)
 * [Content marketing, not PR](http://onstartups.com/tabid/3339/bid/93468/Our-PR-Stinks-Here-s-What-Your-Startup-Can-Learn-From-It.aspx)
 * Having real marketing plan, how to reach customers is essential.
