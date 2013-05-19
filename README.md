@@ -169,16 +169,17 @@ The Knowledge Base for Startups
 
 ## Design of software
 
+* Constant learning what they use and don't
+* Let users vote for features (like surveys)
+* Ask why they did not go with us (they resign)
+* Constant usability tests (in house, or other way)
+* Create API and customization
+* If you will have critical mass, create a marketplace
 * [Missing Features Are Better Than Partial Features](http://bookofhook.blogspot.com/2013/02/missing-features-are-better-than.html)
 * Make people happy - Inability of control things - makes people not try, and lack of effort, which leads to unhappiness, so people are helplessness, people must feel that they can easily get what they want, software shouldn’t interrupt this process. Put the user in control. Give them feedback. Don’t hide things beyond their reach!
 * Obsess over aestetics - you can decorate in some way
 * Constant interation
-* getflow.com
-* mint
-* wufoo
-* stripe
-* trello
-* Intercom.io
+* getflow.com, mint, wufoo, stripe, trello, Intercom.io
 * [Quick Course On Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
 * [Why Can’t They Just…?](http://www.cindyalvarez.com/worst-practices/why-cant-they-just)
 * [Design ui/ux](http://blog.teamtreehouse.com/ryan-singer-on-ui-design-frontend-development-project-management-and-inspiration)
