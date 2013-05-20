@@ -27,6 +27,7 @@ The Knowledge Base for Startups
 * [Elements of sustainable companies](http://www.sequoiacap.com/ideas)
 * [10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
 * Market reaserch data: [1](http://libguides.mit.edu/content.php?pid=56163&sid=411134), [2](http://www.census.gov/econ/susb/)
+* [Only 150 companies with more than $100 mln per year](http://bostinno.streetwise.co/2013/05/14/only-200-startups-per-year-end-up-mattering-most-of-them-arent-in-tech/)
 
 ## Motivation & Expectetions
 
