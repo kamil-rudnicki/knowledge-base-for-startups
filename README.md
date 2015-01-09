@@ -1,9 +1,9 @@
+(no longer updated, I started using Evernote to build my knowledge base)
+
 The Knowledge Base for Startups
 ===========================
 
 (CC) 2011-2013 by Kamil Rudnicki (http://rudnicki.info) 
-
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 # Ideas
 
